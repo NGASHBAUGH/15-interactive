@@ -1,6 +1,6 @@
 # Plot.ly Challenge - JavaScript, Plot.ly, and an Interactive Dashboard
 
-In this repository I utilized JavaScript app to create an interactive dashboard that updates itself based off of the selection made from the dropdown. When the user selects an id from the dropdown the bar graph, bubble chart, and demographic info update. To view the application please go to the following link (https://ngashbaugh.github.io/StarterCode/)
+In this repository I utilized JavaScript app to create an interactive dashboard that updates itself based off the selection made from the dropdown. When the user selects an id from the dropdown the bar graph, bubble chart, and demographic info update. To view the application please go to the following link (https://ngashbaugh.github.io/StarterCode/)
 
 
 ![Dropdown](https://github.com/NGASHBAUGH/Plotly_Dashboard/blob/master/Images/my-images/Capture.PNG)
@@ -9,7 +9,7 @@ In this repository I utilized JavaScript app to create an interactive dashboard 
 
 
 
-Note to launch this app locally, you'll need to use python -m http.server to run the visualization. This will host the page at localhost:8000 in your web browser. Make sure you are in the folder with the "index.html" file in it.
+Note to launch this app locally you'll need to use python -m http.server to run the visualization. This will host the page at localhost:8000 in your web browser. Make sure you are in the folder with the "index.html" file in it.
 
 ### About the Data
 
