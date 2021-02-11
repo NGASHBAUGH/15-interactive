@@ -5,7 +5,7 @@ In this repository I utilized JavaScript app to create an interactive dashboard 
 
 ![Dropdown](https://github.com/NGASHBAUGH/Plotly_Dashboard/blob/master/Images/my-images/Capture.PNG)
 
-![Dropdown](https://github.com/NGASHBAUGH/Plotly_Dashboard/blob/master/Images/my-images/Capture00.PNG)
+![Dropdown](https://github.com/NGASHBAUGH/Plotly_Dashboard/blob/master/Images/my-images/Capture01.PNG)
 
 
 
